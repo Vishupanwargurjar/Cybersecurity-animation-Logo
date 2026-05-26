@@ -19,5 +19,4 @@ A professional animated cybersecurity logo created for branding and motion graph
 Cybersecurity • Dark Tech • Hacker Style • Digital Security
 
 ## 👨‍💻 Author
-
-Yogesh
+Vishu Panwar
